@@ -1,0 +1,31 @@
+# Xcode
+build/
+DerivedData/
+Derived/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+xcuserdata/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xccheckout
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Tuist
+Tuist/.build
+TestEngineApp.xcodeproj
+TestEngineApp.xcworkspace
+
+# Swift Package Manager
+.build/
+Package.resolved
+
+# OS files
+.DS_Store
+*.swp
+*~
